@@ -1,4 +1,4 @@
-# -Multi-Model-Framework-for-Sequential-and-Text-Data-Analysis
+# Multi-Model-Framework-for-Sequential-and-Text-Data-Analysis
 
 This project contains implementations of machine learning models for binary classification using three datasets (Emoticon, Deep Feature, and Text Sequence datasets). The project trains models individually on each dataset and then combines features from all datasets to train a unified model.
 
